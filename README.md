@@ -19,7 +19,7 @@ d-	Stemming & Lemmatization
 7.	Déploiement : on peut utiliser un stack complet pour automatiser notre workflow et le mener à la phase de production en utilisant MLflow, AutoML, FastAPI
 8.	Faire des inférences/prédictions
 
-![](ml_workflow.drawio (1).png)
+![](ml_workflow.drawio.png)
 
 
 ## Question 2 :
